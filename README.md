@@ -16,10 +16,7 @@ Atau Bapak Ibu cukup menginstall requirements.txt dengan cara berikut
 pip install -r requirements.txt
 ```
 
-## Rubics
-
-
-## What You Need to Do
+## To Do:
 
 * Silahkan mencoba melakukan scraping soal di bawah menggunakan `beautiful soup` di notebook Bapak/Ibu terlebih dahulu.
 * Bapak/Ibu dapat men-clone repo ini.
